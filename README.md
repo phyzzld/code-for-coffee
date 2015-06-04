@@ -1,5 +1,3 @@
 # phyzzld.github.io
-a great repo
 
-
-# test
+GA - HTNL & CSS Class 2015-06-04
