@@ -5,7 +5,8 @@ body {
 h1,h2,h3,h4 {
   font-family: "Times New Roman";
   color: blue;
-  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 p {
   margin: 10px;
