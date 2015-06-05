@@ -1,0 +1,15 @@
+body {
+  font-family: "Arial";
+  color: red;
+}
+h1,h2,h3,h4 {
+  font-family: "Times New Roman";
+  color: blue;
+  margin: 5px;
+}
+p {
+  margin: 10px;
+}
+footer {
+color: green;
+}
